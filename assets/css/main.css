@@ -3784,10 +3784,10 @@ input, select, textarea {
 				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
 				background-image: linear-gradient(to right, #5e42a6, #b74e91);
 */
-				background-image: -moz-linear-gradient(to right, #d1d1d1, #d3d3d3);
-				background-image: -webkit-linear-gradient(to right, #d1d1d1, #d3d3d3);
-				background-image: -ms-linear-gradient(to right, #d1d1d1, #d3d3d3);
-				background-image: linear-gradient(to right, #d1d1d1, #d3d3d3);
+				background-image: -moz-linear-gradient(to right, #c7c700, #800000);
+				background-image: -webkit-linear-gradient(to right, #c7c700, #800000);
+				background-image: -ms-linear-gradient(to right, #c7c700, #800000);
+				background-image: linear-gradient(to right, #c7c700, #800000);
 
 
 				-moz-transition: max-width 0.2s ease;
