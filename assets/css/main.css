@@ -3245,16 +3245,16 @@ input, select, textarea {
 		.wrapper.alt {
 			background-color: #261c3e;
 		}
-
+/*
 		.wrapper.style1 {
 			background-color: #5e42a6;
 		}
-/*
+*/
 		.wrapper.style1 {
 			background-color: #d1d1d1;
 		}
 
-*/
+
 		.wrapper.style1-alt {
 			background-color: #493382;
 		}
